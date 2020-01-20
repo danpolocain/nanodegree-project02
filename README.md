@@ -1,4 +1,4 @@
-#PROJECT 02 - UDACITY STREAMING NANODEGREE
+# PROJECT 02 - UDACITY STREAMING NANODEGREE
 **How did changing values on the SparkSession property parameters affect the throughput and latency of the data?**.
 
 I've notice that changing some SparkSession properties, it increases the performance of throughput and latency. Specially in rows per second and decreasing speed to process jobs.
